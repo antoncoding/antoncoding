@@ -45,7 +45,7 @@ One-time Account Abstraction wallet
 Receive funds on any chain. Maximum privacy.
 ```
 
-### Videoma
+### Vidioma
 [![View Project](https://img.shields.io/badge/View_Project-green?style=for-the-badge)](https://github.com/antoncoding/videoma-fe)
 ```
 AI-powered course generator
