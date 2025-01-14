@@ -1,9 +1,5 @@
 # </ Hello World >
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
 # Current Builds
 
 ### MonarchLend.xyz 
